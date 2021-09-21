@@ -1,0 +1,3 @@
+#pragma once
+
+enum class COMMAND {MOVE_UP, MOVE_DOWN, MOVE_LEFT, MOVE_RIGHT, ATTACK, STAY};
