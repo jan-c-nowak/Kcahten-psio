@@ -9,5 +9,7 @@ Nie wiem czy jest to normalne zachowanie, ale aby projekt pobrany z gita zadzia�
 
 W razie problemów umieściłem identyczną wersję na eKursach.
 
+Gra oczywiście pierwotnie miała znacznie większą skalę, lecz idąc w ślady największych producentów gier poczyniłem wiele downgradeów względem "pisemnego traileru" na formularzu :)
+
 jan nowak
 
