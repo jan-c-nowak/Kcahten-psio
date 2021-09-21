@@ -1,0 +1,23 @@
+﻿  AIControl.cpp
+  Command.cpp
+  Game.cpp
+C:\Users\janno\Desktop\Project\Eagleview\Game.cpp(207,67): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\janno\Desktop\Project\Eagleview\Game.cpp(207,43): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\janno\Desktop\Project\Eagleview\Game.cpp(297,103): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+C:\Users\janno\Desktop\Project\Eagleview\Game.cpp(298,103): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+  GameObject.cpp
+C:\Users\janno\Desktop\Project\Eagleview\GameObject.cpp(15,77): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\janno\Desktop\Project\Eagleview\GameObject.cpp(15,45): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\janno\Desktop\Project\Eagleview\GameObject.cpp(60,16): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+  InputHandle.cpp
+  Źródło.cpp
+  Generowanie kodu...
+  Eagleview.vcxproj -> C:\Users\janno\Desktop\Project\Eagleview\Debug\Eagleview.exe
