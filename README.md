@@ -15,6 +15,7 @@ Nie zajmuje się grafiką oraz game designem, więc na te cechy gry patrz z przy
 Gra została stworzona jako projekt zaliczeniowy na zajęcia "Programowanie Obiektowe", w którym brałem udział podczas semestru letniego na Politechnice Poznańskiej.
 
 baw się dobrze :),
+
 jan nowak
 
 English:
@@ -30,4 +31,5 @@ I'm not a graphics person nor a game designer, so take the looks and playability
 The game was initially my final project for "The Introduction to OOP" course i took during the summer semester at Poznań University of Technology.
 
 hope you have fun :),
+
 jan nowak
