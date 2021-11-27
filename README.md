@@ -17,7 +17,7 @@ Gra została stworzona jako projekt zaliczeniowy na zajęcia "Programowanie Obie
 baw się dobrze :),
 
 jan nowak
-
+/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\
 English:
 
 In order to compile the code, you'll need to set Visual Studio project settings to x86 and debug (both options avaliable in the top toolbar). It is possible to open the game using the .exe file from repo; it is inside the 'Debug' folder. You might need to unpack the folder first.
